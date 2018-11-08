@@ -4,4 +4,10 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
+    <string name="list_pertanyaan">List Pertanyaan</string>
+    <string name="value_1">1</string>
+    <string name="value_2">2</string>
+    <string name="value_3">3</string>
+    <string name="value_4">4</string>
+    <string name="value_5">5</string>
 </resources>
