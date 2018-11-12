@@ -5,7 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class Server {
 
-    private  static  final String base_url = "http://192.168.100.158/kuesioner/";
+    private  static  final String base_url = "http://192.168.1.90/kuesioner/";
 
     private static Retrofit retrofit;
 
