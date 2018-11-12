@@ -60,7 +60,7 @@
             android:id="@+id/btn_login"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="30dp"
+            android:layout_marginBottom="50dp"
             android:layout_marginTop="24dp"
             android:background="@drawable/bg_color"
             android:padding="12dp"
@@ -91,19 +91,22 @@
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:layout_margin="5dp"
-                android:src="@drawable/poltekpos"/>
+                android:src="@drawable/poltekpos"
+                android:contentDescription="@string/logo_poltekpos" />
 
             <ImageView
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:layout_margin="5dp"
-                android:src="@drawable/logo_dsc"/>
+                android:src="@drawable/logo_dsc"
+                android:contentDescription="@string/logo_dsc" />
 
             <ImageView
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:layout_margin="5dp"
-                android:src="@drawable/irc"/>
+                android:src="@drawable/irc"
+                android:contentDescription="@string/logo_irc" />
 
         </LinearLayout>
 

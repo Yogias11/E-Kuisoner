@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">E-Kuisoner</string>
     <string name="logo_poltekpos">Logo Poltekpos</string>
+    <string name="logo_dsc">Logo DSC</string>
+    <string name="logo_irc">Logo IRC</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
